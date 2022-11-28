@@ -1,4 +1,4 @@
-module mlpack.org/v1/mlpack
+module github.com/rcurtin/mlpack
 
 go 1.13
 
