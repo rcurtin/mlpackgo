@@ -1,4 +1,4 @@
-package mlpackgo
+package main
 
 import "C"
 
