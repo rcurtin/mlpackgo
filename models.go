@@ -1,4 +1,4 @@
-package mlpack
+package mlpackgo
 
 /*
 #include <capi/test_go_binding.h>

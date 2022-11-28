@@ -1,4 +1,4 @@
-package mlpack
+package mlpackgo
 
 /*
 #cgo CFLAGS: -I. -I/capi -g -Wall -Wno-unused-variable 
